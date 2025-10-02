@@ -1,1 +1,5 @@
 So this is my first time using git. This is awesome. I hope i don't regret this.
+
+2nd try:
+
+So, i am testing a vs code functionality that i added. It's for messages, lets see how it goes.
